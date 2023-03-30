@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mhmmadazis/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mhmmad.azis_)
-<a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@muhammadazis0195-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/muhammadazis0195" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@muhammadazis0195-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
 <br>
 
