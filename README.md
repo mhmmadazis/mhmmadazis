@@ -41,6 +41,7 @@ Currently focused on learning in JavaScript, but exposed in all aspects of web d
 * [JavaScript](https://www.javascript.com/) - the magic tool for the dynamic web
 * [BOOTSTRAP](https://getbootstrap.com/) - the amazing tool for building layouts
 
-![Muhammad-Azis Github Stats](https://github-readme-stats.vercel.app/api?username=mhmmadazis&count_private=true&show_icons=true&include_all_commits=true) <br>
+![Muhammad-Azis Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+ <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmadazis)](https://github.com/mhmmadazis/github-readme-stats)
 
