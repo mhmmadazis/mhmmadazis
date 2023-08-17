@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/mhmmadazis/mhmmadazis" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/mhmmadazis/mhmmadazis?label=profile%20updated&style=flat-square"></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mhmmadazis.mhmmadazis)
-# HELLO I AM MUHAMMAD AZIS  <a href="https://github.com/mhmmadazis?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+<a href="https://github.com/muhmmadazis/muhmmadazis" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/muhmmadazis/muhmmadazis?label=profile%20updated&style=flat-square"></a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhmmadazis.muhmmadazis)
+# HELLO I AM MUHAMMAD AZIS  <a href="https://github.com/muhmmadazis?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 ## I AM WEB DEVELOPER
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mhmmadazis/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mhmmad.azis_)
-<a href="https://github.com/mhmmadazis" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@mhmmadazis-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/muhmmadazis" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@muhmmadazis-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
 <br>
 
@@ -41,7 +41,7 @@ Currently focused on learning in JavaScript, but exposed in all aspects of web d
 * [JavaScript](https://www.javascript.com/) - the magic tool for the dynamic web
 * [BOOTSTRAP](https://getbootstrap.com/) - the amazing tool for building layouts
 
-![Muhammad Azis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmmadazis&theme=dark&show_icons=true)
+![Muhammad Azis's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhmmadazis&theme=dark&show_icons=true)
  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmadazis)](https://github.com/mhmmadazis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmadazis)](https://github.com/muhmmadazis/github-readme-stats)
 
